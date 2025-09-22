@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theol\\source\\repos\\CircleArea\\CircleArea.csproj",
+      "projectUniqueName": "C:\\Users\\theol\\source\\ChasAcademy\\labb\\CircleArea\\CircleArea.csproj",
       "projectName": "CircleArea",
-      "projectPath": "C:\\Users\\theol\\source\\repos\\CircleArea\\CircleArea.csproj",
+      "projectPath": "C:\\Users\\theol\\source\\ChasAcademy\\labb\\CircleArea\\CircleArea.csproj",
       "packagesPath": "C:\\Users\\theol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theol\\source\\repos\\CircleArea\\obj\\",
+      "outputPath": "C:\\Users\\theol\\source\\ChasAcademy\\labb\\CircleArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
