@@ -1,4 +1,6 @@
-﻿namespace CircleArea
+﻿//Theo Lilliesköld, NET25
+
+namespace CircleArea
 {
     internal class Program
     {
